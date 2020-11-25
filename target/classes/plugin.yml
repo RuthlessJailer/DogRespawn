@@ -1,0 +1,4 @@
+name: DogRespawn
+version: 1.0.0
+main: com.ruthlessjailer.plugin.dogrespawn.DogRespawn
+api-version: 1.16
